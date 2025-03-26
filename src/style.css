@@ -1,0 +1,22 @@
+body {
+    align-items: center;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    margin: 0;
+    min-height: 100lvh;
+}
+
+#greetingText {
+    font-size: 32px;
+    line-height: 1.5;
+    margin-block-end: 24px;
+    margin-block-start: 0;
+}
+
+#weatherEmoji {
+    font-size: 64px;
+    line-height: 1.5;
+}
